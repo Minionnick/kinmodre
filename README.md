@@ -31,6 +31,7 @@ As these Kinetic Models were converted from their respective GSMs using [Amir-Ha
 More details on each model are listed in [List of GSM-Converted Kinetic Models](https://github.com/mauriceling/kinmodre/blob/main/List%20of%20GSM-Converted%20Kinetic%20Models.xlsx) file.
 
 1. e_coli_core [Source: BiGG]
+1. iAB_RBC_283 [Source: BiGG]
 1. iAF1260 [Source: BiGG]
 1. iML1515 [Source: BiGG]
 1. Recon3D [Source: BiGG]
